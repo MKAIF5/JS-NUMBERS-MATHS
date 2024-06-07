@@ -22,3 +22,6 @@
 
 //ceil mai point ke baad minus lagao to woh such mai minus krdega aur round bhi
 // console.log(Math.ceil(9.1));
+
+// console.log(Math.max(4,3,5,3));
+// console.log(Math.min(1,1,1,1));
