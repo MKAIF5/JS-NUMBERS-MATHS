@@ -16,4 +16,6 @@
 
 // console.log(Math.abs(-+3));
 
-console.log(Math.round(4.49999));
+
+//15 dafa agey number lagane ke baad round off krdega chahe four kiu na ho
+console.log(Math.round(1.4999999999999999));
