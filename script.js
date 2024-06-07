@@ -18,4 +18,7 @@
 
 
 //15 dafa agey number lagane ke baad round off krdega chahe four kiu na ho
-console.log(Math.round(1.4999999999999999));
+// console.log(Math.round(1.4999999999999999));
+
+//ceil mai point ke baad minus lagao to woh such mai minus krdega aur round bhi
+// console.log(Math.ceil(9.1));
